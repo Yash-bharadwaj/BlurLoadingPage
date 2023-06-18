@@ -39,8 +39,7 @@ Contributions to this project are welcome. If you encounter any issues or have s
 **Preview**
 
 
-
-https://github.com/Yash-bharadwaj/BlurLoadingPage/assets/86095452/4254dc7a-5367-404d-b247-3e273b24e20e
+![recordPage](https://github.com/Yash-bharadwaj/BlurLoadingPage/assets/86095452/0fb7f7b8-15d8-496c-9d7f-d4dbc6a13743)
 
 
 
